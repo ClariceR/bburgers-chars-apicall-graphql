@@ -47,12 +47,8 @@ function App() {
   return (
     <div>
       {data.data.characters.map((character) => (
-        <div className="characters-bkg">
-          <Character
-            name={character.name}
-            image={character.image}
-            key={character.id}
-          />
+        <div className="characters-bkg" key={character.id}>
+          <Character name={character.name} image={character.image} />
         </div>
       ))}
     </div>
