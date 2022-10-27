@@ -1,3 +1,7 @@
+# App to fetch data from api using GraphQl
+
+This is a simple app that fetches Bob's Burgers characters from the [Bob's Burger Api](https://www.bobsburgersapi.com/) using GraphQl.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

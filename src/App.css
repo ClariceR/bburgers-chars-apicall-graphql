@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.characters-bkg {
+  background-color: rgb(118, 122, 132);
+  text-align: center;
+  color: aliceblue;
+  margin: 10px;
+  padding-top: 2px;
+  padding-bottom: 25px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
